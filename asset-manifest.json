@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/github.io/file_processor/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/github.io/file_processor/static/js/main.ec61f6ba.chunk.js",
+    "main.js.map": "/github.io/file_processor/static/js/main.ec61f6ba.chunk.js.map",
+    "runtime-main.js": "/github.io/file_processor/static/js/runtime-main.f5db33f8.js",
+    "runtime-main.js.map": "/github.io/file_processor/static/js/runtime-main.f5db33f8.js.map",
+    "static/css/2.24f96119.chunk.css": "/github.io/file_processor/static/css/2.24f96119.chunk.css",
+    "static/js/2.95b1a37d.chunk.js": "/github.io/file_processor/static/js/2.95b1a37d.chunk.js",
+    "static/js/2.95b1a37d.chunk.js.map": "/github.io/file_processor/static/js/2.95b1a37d.chunk.js.map",
+    "index.html": "/github.io/file_processor/index.html",
+    "precache-manifest.a27f60482ebf58ecda79953256818772.js": "/github.io/file_processor/precache-manifest.a27f60482ebf58ecda79953256818772.js",
+    "service-worker.js": "/github.io/file_processor/service-worker.js",
+    "static/css/2.24f96119.chunk.css.map": "/github.io/file_processor/static/css/2.24f96119.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/github.io/file_processor/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.95b1a37d.chunk.js.LICENSE.txt": "/github.io/file_processor/static/js/2.95b1a37d.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/github.io/file_processor/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5db33f8.js",
+    "static/css/2.24f96119.chunk.css",
+    "static/js/2.95b1a37d.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ec61f6ba.chunk.js"
+  ]
+}
